@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codedoses
-- 👀 I’m interested in learning code, video games, floral design, and reading novels
+- 👀 I’m interested in learning code, playing video games, floral design, and reading novels
 - 🌱 I’m currently learning fundamentals of HTML, CSS, JavaScript, Python, C/C++
 - 💞️ I’m looking to collaborate on beginner projects!
 - 📫 How to reach me : twitter @codedoses email codedoses27@gmail.com
