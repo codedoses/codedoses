@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code, playing video games, and reading novels
 - 🌱 I’m currently learning fundamentals of HTML, CSS, JavaScript, Python, C/C++
 - 💞️ I’m looking to collaborate on beginner projects!
-- 📫 How to reach me : twitter @codedoses email codedoses27@gmail.com
+- 📫 How to reach me : twitter -- @codedoses email -- codedoses27@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a registered nurse :)
 
